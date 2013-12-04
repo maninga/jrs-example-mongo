@@ -1,0 +1,21 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.0",
+    "jade": "*",
+    "jsonreststores": "~0.3.10",
+    "simpleschema-tingo": "~0.3.0",
+    "simpleschema-mongo": "~0.3.3",
+    "mongowrapper": "~0.3.2",
+    "mongodb": "~1.3.20",
+    "simpledblayer-mongo": "~0.3.8",
+    "simpledeclare": "~0.3.5",
+    "simpleschema": "~0.3.3",
+    "simpledblayer": "~0.3.6"
+  }
+}
